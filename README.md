@@ -1,7 +1,7 @@
 # MKCGN
 
 
-Meta-relation Assisted Knowledge-aware Coupled Graph Neural Network for Social Recommendation
+Meta-relation Assisted Knowledge-aware Coupled Graph Neural Network for Recommendation
 ## Environments
 
 - python 3.8
